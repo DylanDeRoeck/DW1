@@ -1,0 +1,2 @@
+willekeurige lijnen tekst in "voorbeeld.txt"
+nog meer random lijnen tekst in "voorbeeld.txt"
